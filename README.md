@@ -1,4 +1,18 @@
 # Quiz2_PPL
-Link Video : https://drive.google.com/file/d/1j5AdimDH8fYDdlEEWYNLmEX9Hfu6gkuh/view?usp=sharing
+Penjelasan mengenai Test Case :
 
-Link Cypress : https://github.com/2azmi2/Quiz2_PPL
+TC_login_01 : Username salah, Password benar
+
+TC_Login_02 : Username benar, password salah
+
+TC_Login_03 : Username salah, password salah
+
+TC_Login_04 : Username benar, password benar
+
+TC_Beli_01 : Total bayar kurang dari jumlah minimum
+
+TC_Beli_02 : Total bayar menggunakan type string bukan int
+
+TC_Beli_03 : Total bayar sesuai dengan aturan
+
+TC_Beli_04 : Total bayar melebihi jumlah saldo yang dimiliki
