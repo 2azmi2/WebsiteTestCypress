@@ -21,4 +21,4 @@ TC_Beli_04 : Total bayar melebihi jumlah saldo yang dimiliki
 <img src="Test Case Beli.png">
 
 ## Test Case Login
-<img src"Test Case Login.png">
+<img src="Test Case Login.png">
