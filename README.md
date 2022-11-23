@@ -16,3 +16,9 @@ TC_Beli_02 : Total bayar menggunakan type string bukan int
 TC_Beli_03 : Total bayar sesuai dengan aturan
 
 TC_Beli_04 : Total bayar melebihi jumlah saldo yang dimiliki
+
+## Test Case Beli
+![images](Test Case Beli.png)
+
+## Test Case Login
+![images](Test Case Login.png)
