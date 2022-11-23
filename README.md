@@ -18,7 +18,7 @@ TC_Beli_03 : Total bayar sesuai dengan aturan
 TC_Beli_04 : Total bayar melebihi jumlah saldo yang dimiliki
 
 ## Test Case Beli
-Test Case Beli.png
+<img src="Test Case Beli.png">
 
 ## Test Case Login
-Test Case Login.png
+<img src"Test Case Login.png">
