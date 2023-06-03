@@ -1,4 +1,4 @@
-# Quiz2_PPL
+# Cypress Test
 Penjelasan mengenai Test Case :
 
 TC_login_01 : Username salah, Password benar
